@@ -2,7 +2,7 @@
 Prueba para Procesos de Software
 
 #include<iostream>
-using namespace std;
+using namespace std
 int main(){
-  cout<<"Hola mundo";
+  cout<<"Hola mundo;
 }
