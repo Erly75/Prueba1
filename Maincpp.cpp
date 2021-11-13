@@ -3,6 +3,6 @@ Prueba para Procesos de Software
 
 #include<iostream>
 using namespace std;
-  int main(){
+int main(){
   cout<<"Hola mundo";
-  }
+}
